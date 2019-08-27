@@ -22,7 +22,7 @@
     "nunjucks": "^3.0.0"
   },
   "devDependencies": {
-    "chai": "^3.5.0",
+    "chai": "^4.2.0",
     "debug": "^4.1.1",
     "gulp": "^4.0.2",
     "gulp-livereload": "^4.0.1",
