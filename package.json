@@ -31,6 +31,6 @@
     "gulp-sass": "^4.0.2",
     "mocha": "^6.2.0",
     "nyc": "^14.1.1",
-    "supertest": "^2.0.0"
+    "supertest": "^4.0.2"
   }
 }
