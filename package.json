@@ -17,7 +17,7 @@
     "express": "^4.13.3",
     "glob": "^7.1.4",
     "method-override": "^3.0.0",
-    "morgan": "^1.6.1",
+    "morgan": "^1.10.0",
     "nunjucks": "^3.0.0",
     "serve-favicon": "^2.3.0"
   },
