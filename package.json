@@ -28,7 +28,7 @@
     "gulp-livereload": "^4.0.1",
     "gulp-nodemon": "^2.0.2",
     "gulp-plumber": "^1.0.0",
-    "gulp-sass": "^4.0.2",
+    "gulp-sass": "^4.1.0",
     "mocha": "^6.2.0",
     "nyc": "^14.1.1",
     "supertest": "^4.0.2"
